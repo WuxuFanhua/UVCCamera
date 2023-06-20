@@ -10,7 +10,11 @@ forked from saki4510t/UVCCamera
 ndk\\14.1.3816874
 下载地址
 https://developer.android.com/ndk/downloads/older_releases.html
+
+
 若上方地址无法访问，使用下方地址
 https://developer.android.google.cn/ndk/downloads/older_releases.html
 
+
+如果不想使用NDK，直接注释掉build.gradle中的NDKbuild相关方法。
 
